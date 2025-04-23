@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Piyali8991/Your_Own_Time_Capsule.git/static/css/main.92266101.chunk.css",
+    "main.js": "/Piyali8991/Your_Own_Time_Capsule.git/static/js/main.4b99af2d.chunk.js",
+    "main.js.map": "/Piyali8991/Your_Own_Time_Capsule.git/static/js/main.4b99af2d.chunk.js.map",
+    "runtime-main.js": "/Piyali8991/Your_Own_Time_Capsule.git/static/js/runtime-main.b548b454.js",
+    "runtime-main.js.map": "/Piyali8991/Your_Own_Time_Capsule.git/static/js/runtime-main.b548b454.js.map",
+    "static/js/2.9f5a8f8f.chunk.js": "/Piyali8991/Your_Own_Time_Capsule.git/static/js/2.9f5a8f8f.chunk.js",
+    "static/js/2.9f5a8f8f.chunk.js.map": "/Piyali8991/Your_Own_Time_Capsule.git/static/js/2.9f5a8f8f.chunk.js.map",
+    "index.html": "/Piyali8991/Your_Own_Time_Capsule.git/index.html",
+    "precache-manifest.d7192cfa6bd2d3bfec1968490082f955.js": "/Piyali8991/Your_Own_Time_Capsule.git/precache-manifest.d7192cfa6bd2d3bfec1968490082f955.js",
+    "service-worker.js": "/Piyali8991/Your_Own_Time_Capsule.git/service-worker.js",
+    "static/css/main.92266101.chunk.css.map": "/Piyali8991/Your_Own_Time_Capsule.git/static/css/main.92266101.chunk.css.map",
+    "static/js/2.9f5a8f8f.chunk.js.LICENSE.txt": "/Piyali8991/Your_Own_Time_Capsule.git/static/js/2.9f5a8f8f.chunk.js.LICENSE.txt",
+    "static/media/memories.png": "/Piyali8991/Your_Own_Time_Capsule.git/static/media/memories.5c0c63fb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b548b454.js",
+    "static/js/2.9f5a8f8f.chunk.js",
+    "static/css/main.92266101.chunk.css",
+    "static/js/main.4b99af2d.chunk.js"
+  ]
+}
